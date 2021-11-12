@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @black-RAM
+- 👋 Hi, I’m @black-RAM a young new coder
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning CSS
 - 📫 What I aspire to learn ... Javascript and Python
